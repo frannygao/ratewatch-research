@@ -1,0 +1,18 @@
+{
+  "version": "meeting-v1",
+  "target": "direction at the next scheduled Bank of Canada policy announcement",
+  "deadline": "16:00 America/Toronto on the preceding Canadian banking business day",
+  "official_submission_window_minutes": 60,
+  "primary_metric": "multiclass log loss",
+  "primary_probability_benchmarks": ["frequency", "transition"],
+  "classification_benchmarks": ["always_hold", "persistence"],
+  "model": "StandardScaler followed by multinomial logistic regression",
+  "C": 0.5,
+  "minimum_training_meetings": 40,
+  "features": ["inflation_gap", "inflation_trend", "unemployment_change", "unemployment_gap", "real_rate", "policy_momentum"],
+  "historical_test_status": "release-date-aware reconstruction using current numerical vintages; not an untouched prospective test",
+  "same_day_macro_releases": "excluded because the source calendar has day precision",
+  "text_features": "not used; no verified publication-time corpus",
+  "market_benchmark": "not available; no meeting-specific timestamped OIS feed",
+  "model_selection": "fixed specification; do not tune on these evaluation outcomes"
+}

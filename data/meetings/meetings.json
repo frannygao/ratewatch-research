@@ -1,0 +1,958 @@
+[
+  {
+    "date": "2012-01-17",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/01/fad-press-release-2012-01-17/",
+    "retrieved_at": "2026-09-13T07:07:57.957038+00:00"
+  },
+  {
+    "date": "2012-03-08",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/03/fad-press-release-2012-03-08/",
+    "retrieved_at": "2026-09-13T07:07:58.549403+00:00"
+  },
+  {
+    "date": "2012-04-17",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/04/fad-press-release-2012-04-17/",
+    "retrieved_at": "2026-09-13T07:07:58.785072+00:00"
+  },
+  {
+    "date": "2012-06-05",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/06/fad-press-release-2012-06-05/",
+    "retrieved_at": "2026-09-13T07:07:59.348233+00:00"
+  },
+  {
+    "date": "2012-07-17",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/07/fad-press-release-2012-07-17/",
+    "retrieved_at": "2026-09-13T07:07:59.892508+00:00"
+  },
+  {
+    "date": "2012-09-05",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/09/fad-press-release-2012-09-05/",
+    "retrieved_at": "2026-09-13T07:08:00.137245+00:00"
+  },
+  {
+    "date": "2012-10-23",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/10/fad-press-release-2012-10-23/",
+    "retrieved_at": "2026-09-13T07:08:00.382378+00:00"
+  },
+  {
+    "date": "2012-12-04",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2011/07/bank-canada-2012-schedule-fad-mpr/",
+    "announcement_url": "https://www.bankofcanada.ca/2012/12/fad-press-release-2012-12-04/",
+    "retrieved_at": "2026-09-13T07:08:00.650275+00:00"
+  },
+  {
+    "date": "2013-01-23",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/01/fad-press-release-2013-01-23/",
+    "retrieved_at": "2026-09-13T07:08:01.531065+00:00"
+  },
+  {
+    "date": "2013-03-06",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/03/fad-press-release-2013-03-06/",
+    "retrieved_at": "2026-09-13T07:08:01.782357+00:00"
+  },
+  {
+    "date": "2013-04-17",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/04/fad-press-release-2013-04-17/",
+    "retrieved_at": "2026-09-13T07:08:02.353734+00:00"
+  },
+  {
+    "date": "2013-05-29",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/05/fad-press-release-2013-05-29/",
+    "retrieved_at": "2026-09-13T07:08:02.597716+00:00"
+  },
+  {
+    "date": "2013-07-17",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/07/fad-press-release-2013-07-17/",
+    "retrieved_at": "2026-09-13T07:08:02.856847+00:00"
+  },
+  {
+    "date": "2013-09-04",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/09/fad-press-release-2013-09-04/",
+    "retrieved_at": "2026-09-13T07:08:03.094359+00:00"
+  },
+  {
+    "date": "2013-10-23",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/10/fad-press-release-2013-10-23/",
+    "retrieved_at": "2026-09-13T07:08:03.342723+00:00"
+  },
+  {
+    "date": "2013-12-04",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2012/08/2013-schedule-policy-interest-rate-announcements-monetary-policy-report/",
+    "announcement_url": "https://www.bankofcanada.ca/2013/12/fad-press-release-2013-12-04/",
+    "retrieved_at": "2026-09-13T07:08:03.850511+00:00"
+  },
+  {
+    "date": "2014-01-22",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/01/fad-press-release-2014-01-22/",
+    "retrieved_at": "2026-09-13T07:08:04.721212+00:00"
+  },
+  {
+    "date": "2014-03-05",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/03/fad-press-release-2014-03-05/",
+    "retrieved_at": "2026-09-13T07:08:04.966174+00:00"
+  },
+  {
+    "date": "2014-04-16",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/04/fad-press-release-2014-04-16/",
+    "retrieved_at": "2026-09-13T07:08:05.208220+00:00"
+  },
+  {
+    "date": "2014-06-04",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/06/fad-press-release-2014-06-04/",
+    "retrieved_at": "2026-09-13T07:08:05.730847+00:00"
+  },
+  {
+    "date": "2014-07-16",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/07/fad-press-release-2014-07-16/",
+    "retrieved_at": "2026-09-13T07:08:05.966558+00:00"
+  },
+  {
+    "date": "2014-09-03",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/09/fad-press-release-2014-09-03/",
+    "retrieved_at": "2026-09-13T07:08:06.233356+00:00"
+  },
+  {
+    "date": "2014-10-22",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/10/fad-press-release-2014-10-22/",
+    "retrieved_at": "2026-09-13T07:08:06.854839+00:00"
+  },
+  {
+    "date": "2014-12-03",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2013/07/bofc-publishes-2014-schedule-fad-and-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2014/12/fad-press-release-2014-12-03/",
+    "retrieved_at": "2026-09-13T07:08:07.103015+00:00"
+  },
+  {
+    "date": "2015-01-21",
+    "label": "cut",
+    "headline": "Bank of Canada lowers overnight rate target to 3/4 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/01/fad-press-release-2015-01-21/",
+    "retrieved_at": "2026-09-13T07:08:08.377063+00:00"
+  },
+  {
+    "date": "2015-03-04",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 3/4 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/03/fad-press-release-2015-03-04/",
+    "retrieved_at": "2026-09-13T07:08:08.896996+00:00"
+  },
+  {
+    "date": "2015-04-15",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 3/4 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/04/fad-press-release-2015-04-15/",
+    "retrieved_at": "2026-09-13T07:08:09.435651+00:00"
+  },
+  {
+    "date": "2015-05-27",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 3/4 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/05/fad-press-release-2015-05-27/",
+    "retrieved_at": "2026-09-13T07:08:09.700870+00:00"
+  },
+  {
+    "date": "2015-07-15",
+    "label": "cut",
+    "headline": "Bank of Canada lowers overnight rate target to 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/07/fad-press-release-2015-07-15/",
+    "retrieved_at": "2026-09-13T07:08:10.362811+00:00"
+  },
+  {
+    "date": "2015-09-09",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/09/fad-press-release-2015-09-09/",
+    "retrieved_at": "2026-09-13T07:08:10.721673+00:00"
+  },
+  {
+    "date": "2015-10-21",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/10/fad-press-release-2015-10-21/",
+    "retrieved_at": "2026-09-13T07:08:11.001691+00:00"
+  },
+  {
+    "date": "2015-12-02",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2014/07/boc-2015-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2015/12/fad-press-release-2015-12-02/",
+    "retrieved_at": "2026-09-13T07:08:11.244852+00:00"
+  },
+  {
+    "date": "2016-01-20",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/01/fad-press-release-2016-01-20/",
+    "retrieved_at": "2026-09-13T07:08:11.714612+00:00"
+  },
+  {
+    "date": "2016-03-09",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/03/fad-press-release-2016-03-09/",
+    "retrieved_at": "2026-09-13T07:08:11.952068+00:00"
+  },
+  {
+    "date": "2016-04-13",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/04/fad-press-release-2016-04-13/",
+    "retrieved_at": "2026-09-13T07:08:12.194889+00:00"
+  },
+  {
+    "date": "2016-05-25",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/05/fad-press-release-2016-05-25/",
+    "retrieved_at": "2026-09-13T07:08:12.472386+00:00"
+  },
+  {
+    "date": "2016-07-13",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/07/fad-press-release-2016-07-13/",
+    "retrieved_at": "2026-09-13T07:08:12.753411+00:00"
+  },
+  {
+    "date": "2016-09-07",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/09/fad-press-release-2016-09-07/",
+    "retrieved_at": "2026-09-13T07:08:13.046780+00:00"
+  },
+  {
+    "date": "2016-10-19",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/10/fad-press-release-2016-10-19/",
+    "retrieved_at": "2026-09-13T07:08:13.323966+00:00"
+  },
+  {
+    "date": "2016-12-07",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2015/07/boc-2016-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2016/12/fad-press-release-2016-12-07/",
+    "retrieved_at": "2026-09-13T07:08:13.584457+00:00"
+  },
+  {
+    "date": "2017-01-18",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/01/fad-press-release-2017-01-18/",
+    "retrieved_at": "2026-09-13T07:08:14.310634+00:00"
+  },
+  {
+    "date": "2017-03-01",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/03/fad-press-release-2017-03-01/",
+    "retrieved_at": "2026-09-13T07:08:14.551380+00:00"
+  },
+  {
+    "date": "2017-04-12",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/04/fad-press-release-2017-04-12/",
+    "retrieved_at": "2026-09-13T07:08:15.091704+00:00"
+  },
+  {
+    "date": "2017-05-24",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1/2 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/05/fad-press-release-2017-05-24/",
+    "retrieved_at": "2026-09-13T07:08:15.325946+00:00"
+  },
+  {
+    "date": "2017-07-12",
+    "label": "hike",
+    "headline": "Bank of Canada increases overnight rate target to 3/4 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/07/fad-press-release-2017-07-12/",
+    "retrieved_at": "2026-09-13T07:08:15.564419+00:00"
+  },
+  {
+    "date": "2017-09-06",
+    "label": "hike",
+    "headline": "Bank of Canada increases overnight rate target to 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/09/fad-press-release-2017-09-06/",
+    "retrieved_at": "2026-09-13T07:08:15.799913+00:00"
+  },
+  {
+    "date": "2017-10-25",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/10/fad-press-release-2017-10-25/",
+    "retrieved_at": "2026-09-13T07:08:16.378646+00:00"
+  },
+  {
+    "date": "2017-12-06",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2016/07/boc-2017-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2017/12/fad-press-release-2017-12-06/",
+    "retrieved_at": "2026-09-13T07:08:16.626457+00:00"
+  },
+  {
+    "date": "2018-01-17",
+    "label": "hike",
+    "headline": "Bank of Canada increases overnight rate target to 1 1/4 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/01/fad-press-release-2018-01-17/",
+    "retrieved_at": "2026-09-13T07:08:17.513003+00:00"
+  },
+  {
+    "date": "2018-03-07",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 1/4 per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/03/fad-press-release-2018-03-07/",
+    "retrieved_at": "2026-09-13T07:08:17.752776+00:00"
+  },
+  {
+    "date": "2018-04-18",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 \u00bc per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/04/fad-press-release-2018-04-18/",
+    "retrieved_at": "2026-09-13T07:08:18.009471+00:00"
+  },
+  {
+    "date": "2018-05-30",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00bc per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/05/fad-press-release-2018-05-30/",
+    "retrieved_at": "2026-09-13T07:08:18.683196+00:00"
+  },
+  {
+    "date": "2018-07-11",
+    "label": "hike",
+    "headline": "Bank of Canada raises overnight rate target to 1 \u00bd per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/07/fad-press-release-2018-07-11/",
+    "retrieved_at": "2026-09-13T07:08:18.919353+00:00"
+  },
+  {
+    "date": "2018-09-05",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1 \u00bd per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/09/fad-press-release-2018-09-05/",
+    "retrieved_at": "2026-09-13T07:08:19.161045+00:00"
+  },
+  {
+    "date": "2018-10-24",
+    "label": "hike",
+    "headline": "Bank of Canada increases overnight rate target to 1 \u00be per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/10/fad-press-release-2018-10-24/",
+    "retrieved_at": "2026-09-13T07:08:19.400179+00:00"
+  },
+  {
+    "date": "2018-12-05",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2017/07/boc-2018-schedule-fad-mpr-releases/",
+    "announcement_url": "https://www.bankofcanada.ca/2018/12/fad-press-release-2018-12-05/",
+    "retrieved_at": "2026-09-13T07:08:19.651866+00:00"
+  },
+  {
+    "date": "2019-01-09",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/01/fad-press-release-2019-01-09/",
+    "retrieved_at": "2026-09-13T07:08:20.523308+00:00"
+  },
+  {
+    "date": "2019-03-06",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/03/fad-press-release-2019-03-06/",
+    "retrieved_at": "2026-09-13T07:08:21.041501+00:00"
+  },
+  {
+    "date": "2019-04-24",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/04/fad-press-release-2019-04-24/",
+    "retrieved_at": "2026-09-13T07:08:21.596278+00:00"
+  },
+  {
+    "date": "2019-05-29",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be per cent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/05/fad-press-release-2019-05-29/",
+    "retrieved_at": "2026-09-13T07:08:22.420011+00:00"
+  },
+  {
+    "date": "2019-07-10",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be percent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/07/fad-press-release-2019-07-10/",
+    "retrieved_at": "2026-09-13T07:08:22.665159+00:00"
+  },
+  {
+    "date": "2019-09-04",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be percent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/09/fad-press-release-2019-09-04/",
+    "retrieved_at": "2026-09-13T07:08:23.239974+00:00"
+  },
+  {
+    "date": "2019-10-30",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be percent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/10/fad-press-release-2019-10-30/",
+    "retrieved_at": "2026-09-13T07:08:23.498199+00:00"
+  },
+  {
+    "date": "2019-12-04",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be percent",
+    "schedule_url": "https://www.bankofcanada.ca/2018/07/bank-canada-publishes-2019-schedule-fad-announcements-release-mpr-bos-slos/",
+    "announcement_url": "https://www.bankofcanada.ca/2019/12/fad-press-release-2019-12-04/",
+    "retrieved_at": "2026-09-13T07:08:23.743287+00:00"
+  },
+  {
+    "date": "2020-01-22",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target at 1\u00a0\u00be percent",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/01/fad-press-release-2020-01-22/",
+    "retrieved_at": "2026-09-13T07:08:24.525553+00:00"
+  },
+  {
+    "date": "2020-03-04",
+    "label": "cut",
+    "headline": "Bank of Canada lowers overnight rate target to 1\u00a0\u00bc percent",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/03/fad-press-release-2020-03-04/",
+    "retrieved_at": "2026-09-13T07:08:24.979808+00:00"
+  },
+  {
+    "date": "2020-04-15",
+    "label": "hold",
+    "headline": "Bank of Canada maintains overnight rate target and unveils new market operations",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/04/fad-press-release-2020-04-15/",
+    "retrieved_at": "2026-09-13T07:08:25.492858+00:00"
+  },
+  {
+    "date": "2020-06-03",
+    "label": "hold",
+    "headline": "Bank of Canada maintains target for the overnight rate, scales back some market operations as financial conditions improve",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/06/fad-press-release-2020-06-03/",
+    "retrieved_at": "2026-09-13T07:08:25.878552+00:00"
+  },
+  {
+    "date": "2020-07-15",
+    "label": "hold",
+    "headline": "Bank of Canada will maintain current level of policy rate until inflation objective is achieved, continues program of quantitative easing",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/07/fad-press-release-2020-07-15/",
+    "retrieved_at": "2026-09-13T07:08:26.373701+00:00"
+  },
+  {
+    "date": "2020-09-09",
+    "label": "hold",
+    "headline": "Bank of Canada maintains commitment to current level of policy rate, continues program of quantitative easing",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/09/fad-press-release-2020-09-09/",
+    "retrieved_at": "2026-09-13T07:12:18.150793+00:00"
+  },
+  {
+    "date": "2020-10-28",
+    "label": "hold",
+    "headline": "Bank of Canada will maintain current level of policy rate until inflation objective is achieved, recalibrates its quantitative easing program",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/10/fad-press-release-2020-10-28/",
+    "retrieved_at": "2026-09-13T07:12:18.906337+00:00"
+  },
+  {
+    "date": "2020-12-09",
+    "label": "hold",
+    "headline": "Bank of Canada will maintain current level of policy rate until inflation objective is achieved, continues its quantitative easing program",
+    "schedule_url": "https://www.bankofcanada.ca/2019/07/bank-canada-publishes-2020-schedule-policy-interest-rate-announcements-release-mpr-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2020/12/fad-press-release-2020-12-09/",
+    "retrieved_at": "2026-09-13T07:12:19.610105+00:00"
+  },
+  {
+    "date": "2021-01-20",
+    "label": "hold",
+    "headline": "Bank of Canada will hold current level of policy rate until inflation objective is achieved, continues quantitative easing",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/01/fad-press-release-2021-01-20/",
+    "retrieved_at": "2026-09-13T07:12:20.958287+00:00"
+  },
+  {
+    "date": "2021-03-10",
+    "label": "hold",
+    "headline": "Bank of Canada will hold current level of policy rate until inflation objective is sustainably achieved, continues quantitative easing",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/03/fad-press-release-2021-03-10/",
+    "retrieved_at": "2026-09-13T07:14:07.932396+00:00"
+  },
+  {
+    "date": "2021-04-21",
+    "label": "hold",
+    "headline": "Bank of Canada will hold current level of policy rate until inflation objective is sustainably achieved, adjusts quantitative easing program",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/04/fad-press-release-2021-04-21/",
+    "retrieved_at": "2026-09-13T07:14:08.540421+00:00"
+  },
+  {
+    "date": "2021-06-09",
+    "label": "hold",
+    "headline": "Bank of Canada will hold current level of policy rate until inflation objective is sustainably achieved, continues quantitative easing",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/06/fad-press-release-2021-06-09/",
+    "retrieved_at": "2026-09-13T07:14:09.095952+00:00"
+  },
+  {
+    "date": "2021-07-14",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate and forward guidance, adjusts quantitative easing program",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/07/fad-press-release-2021-07-14/",
+    "retrieved_at": "2026-09-13T07:14:09.925280+00:00"
+  },
+  {
+    "date": "2021-09-08",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues forward guidance  and current pace of quantitative easing",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/09/fad-press-release-2021-09-08/",
+    "retrieved_at": "2026-09-13T07:14:10.632903+00:00"
+  },
+  {
+    "date": "2021-10-27",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate and forward guidance,  ends quantitative easing",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/10/fad-press-release-2021-10-27/",
+    "retrieved_at": "2026-09-13T07:14:11.234246+00:00"
+  },
+  {
+    "date": "2021-12-08",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate and forward guidance",
+    "schedule_url": "https://www.bankofcanada.ca/2020/07/2021-schedule-policy-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2021/12/fad-press-release-2021-12-08/",
+    "retrieved_at": "2026-09-13T07:14:11.907254+00:00"
+  },
+  {
+    "date": "2022-01-26",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, removes exceptional forward guidance",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/01/fad-press-release-2022-01-26/",
+    "retrieved_at": "2026-09-13T07:14:12.890764+00:00"
+  },
+  {
+    "date": "2022-03-02",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/03/fad-press-release-2022-03-02/",
+    "retrieved_at": "2026-09-13T07:14:13.460718+00:00"
+  },
+  {
+    "date": "2022-04-13",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate by 50 basis points, begins quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/04/fad-press-release-2022-04-13/",
+    "retrieved_at": "2026-09-13T07:14:14.034146+00:00"
+  },
+  {
+    "date": "2022-06-01",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate by 50 basis points, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/06/fad-press-release-2022-06-01/",
+    "retrieved_at": "2026-09-13T07:14:14.533190+00:00"
+  },
+  {
+    "date": "2022-07-13",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate by 100 basis points, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/07/fad-press-release-2022-07-13/",
+    "retrieved_at": "2026-09-13T07:14:15.053622+00:00"
+  },
+  {
+    "date": "2022-09-07",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate by 75 basis points,  continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/09/fad-press-release-2022-09-07/",
+    "retrieved_at": "2026-09-13T07:14:15.783212+00:00"
+  },
+  {
+    "date": "2022-10-26",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate by 50 basis points, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/10/fad-press-release-2022-10-26/",
+    "retrieved_at": "2026-09-13T07:14:16.510126+00:00"
+  },
+  {
+    "date": "2022-12-07",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate by 50 basis points,  continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2021/07/bank-canada-publishes-its-2022-schedule-policy-interest-rate-announcements-release-monetary-policy-report-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2022/12/fad-press-release-2022-12-07/",
+    "retrieved_at": "2026-09-13T07:14:17.096283+00:00"
+  },
+  {
+    "date": "2023-01-25",
+    "label": "hike",
+    "headline": "Bank of Canada increases policy interest rate by 25 basis points, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/01/fad-press-release-2023-01-25/",
+    "retrieved_at": "2026-09-13T07:14:18.091368+00:00"
+  },
+  {
+    "date": "2023-03-08",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/03/fad-press-release-2023-03-08/",
+    "retrieved_at": "2026-09-13T07:14:18.610935+00:00"
+  },
+  {
+    "date": "2023-04-12",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/04/fad-press-release-2023-04-12/",
+    "retrieved_at": "2026-09-13T07:14:19.349655+00:00"
+  },
+  {
+    "date": "2023-06-07",
+    "label": "hike",
+    "headline": "Bank of Canada raises policy rate 25 basis points, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/06/fad-press-release-2023-06-07/",
+    "retrieved_at": "2026-09-13T07:14:19.991125+00:00"
+  },
+  {
+    "date": "2023-07-12",
+    "label": "hike",
+    "headline": "Bank of Canada raises policy rate 25 basis points, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/07/fad-press-release-2023-07-12/",
+    "retrieved_at": "2026-09-13T07:14:20.290607+00:00"
+  },
+  {
+    "date": "2023-09-06",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/09/fad-press-release-2023-09-06/",
+    "retrieved_at": "2026-09-13T07:14:20.938522+00:00"
+  },
+  {
+    "date": "2023-10-25",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/10/fad-press-release-2023-10-25/",
+    "retrieved_at": "2026-09-13T07:14:21.642728+00:00"
+  },
+  {
+    "date": "2023-12-06",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2022/07/2023-schedule-interest-rate-announcements/",
+    "announcement_url": "https://www.bankofcanada.ca/2023/12/fad-press-release-2023-12-06/",
+    "retrieved_at": "2026-09-13T07:14:22.167935+00:00"
+  },
+  {
+    "date": "2024-01-24",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/01/fad-press-release-2024-01-24/",
+    "retrieved_at": "2026-09-13T07:14:23.320132+00:00"
+  },
+  {
+    "date": "2024-03-06",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/03/fad-press-release-2024-03-06/",
+    "retrieved_at": "2026-09-13T07:14:23.917050+00:00"
+  },
+  {
+    "date": "2024-04-10",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate, continues quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/04/fad-press-release-2024-04-10/",
+    "retrieved_at": "2026-09-13T07:14:24.515779+00:00"
+  },
+  {
+    "date": "2024-06-05",
+    "label": "cut",
+    "headline": "Bank of Canada reduces policy rate by 25 basis points",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/06/fad-press-release-2024-06-05/",
+    "retrieved_at": "2026-09-13T07:14:24.761639+00:00"
+  },
+  {
+    "date": "2024-07-24",
+    "label": "cut",
+    "headline": "Bank of Canada reduces policy rate by 25 basis points to 4\u00bd%",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/07/fad-press-release-2024-07-24/",
+    "retrieved_at": "2026-09-13T07:14:25.312239+00:00"
+  },
+  {
+    "date": "2024-09-04",
+    "label": "cut",
+    "headline": "Bank of Canada reduces policy rate by 25 basis points to 4\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/09/fad-press-release-2024-09-04/",
+    "retrieved_at": "2026-09-13T07:14:25.816189+00:00"
+  },
+  {
+    "date": "2024-10-23",
+    "label": "cut",
+    "headline": "Bank of Canada reduces policy rate by 50 basis points to 3\u00be%",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/10/fad-press-release-2024-10-23/",
+    "retrieved_at": "2026-09-13T07:14:26.061736+00:00"
+  },
+  {
+    "date": "2024-12-11",
+    "label": "cut",
+    "headline": "Bank of Canada reduces policy rate by 50 basis points to 3\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2023/07/2024-schedule-policy-interest-rate-announcements-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2024/12/fad-press-release-2024-12-11/",
+    "retrieved_at": "2026-09-13T07:14:26.324810+00:00"
+  },
+  {
+    "date": "2025-01-29",
+    "label": "cut",
+    "headline": "Bank of Canada reduces policy rate by 25 basis points to 3%, announces end of quantitative tightening",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/01/fad-press-release-2025-01-29/",
+    "retrieved_at": "2026-09-13T07:14:27.451058+00:00"
+  },
+  {
+    "date": "2025-03-12",
+    "label": "cut",
+    "headline": "Bank of Canada reduces policy rate by 25 basis points to 2\u00be%",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/03/fad-press-release-2025-03-12/",
+    "retrieved_at": "2026-09-13T07:14:27.736030+00:00"
+  },
+  {
+    "date": "2025-04-16",
+    "label": "hold",
+    "headline": "Bank of Canada holds policy rate at 2\u00be%",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/04/fad-press-release-2025-04-16/",
+    "retrieved_at": "2026-09-13T07:14:28.234268+00:00"
+  },
+  {
+    "date": "2025-06-04",
+    "label": "hold",
+    "headline": "Bank of Canada holds policy rate at 2\u00be%",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/06/fad-press-release-2025-06-04/",
+    "retrieved_at": "2026-09-13T07:14:28.516183+00:00"
+  },
+  {
+    "date": "2025-07-30",
+    "label": "hold",
+    "headline": "Bank of Canada holds policy rate at 2\u00be%",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/07/fad-press-release-2025-07-30/",
+    "retrieved_at": "2026-09-13T07:14:29.059243+00:00"
+  },
+  {
+    "date": "2025-09-17",
+    "label": "cut",
+    "headline": "Bank of Canada lowers policy rate to 2\u00bd%",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/09/fad-press-release-2025-09-17/",
+    "retrieved_at": "2026-09-13T07:14:29.588175+00:00"
+  },
+  {
+    "date": "2025-10-29",
+    "label": "cut",
+    "headline": "Bank of Canada lowers policy rate to 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/10/fad-press-release-2025-10-29/",
+    "retrieved_at": "2026-09-13T07:14:29.900624+00:00"
+  },
+  {
+    "date": "2025-12-10",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate at 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2024/08/bank-canada-publishes-2025-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2025/12/fad-press-release-2025-12-10/",
+    "retrieved_at": "2026-09-13T07:14:30.139708+00:00"
+  },
+  {
+    "date": "2026-01-28",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate at 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2026/01/fad-press-release-2026-01-28/",
+    "retrieved_at": "2026-09-13T07:14:30.617037+00:00"
+  },
+  {
+    "date": "2026-03-18",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate at 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2026/03/fad-press-release-2026-03-18/",
+    "retrieved_at": "2026-09-13T07:14:30.866359+00:00"
+  },
+  {
+    "date": "2026-04-29",
+    "label": "hold",
+    "headline": "Bank of Canada maintains policy rate at 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2026/04/fad-press-release-2026-04-29/",
+    "retrieved_at": "2026-09-13T07:14:31.105756+00:00"
+  },
+  {
+    "date": "2026-06-10",
+    "label": "hold",
+    "headline": "Bank of Canada maintains the policy rate at 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2026/06/fad-press-release-2026-06-10/",
+    "retrieved_at": "2026-09-13T07:14:31.339470+00:00"
+  },
+  {
+    "date": "2026-07-15",
+    "label": "hold",
+    "headline": "Bank of Canada maintains the policy rate at 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2026/07/fad-press-release-2026-07-15/",
+    "retrieved_at": "2026-09-13T07:14:31.572573+00:00"
+  },
+  {
+    "date": "2026-09-02",
+    "label": "hold",
+    "headline": "Bank of Canada maintains the policy rate at 2\u00bc%",
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": "https://www.bankofcanada.ca/2026/09/fad-press-release-2026-09-02/",
+    "retrieved_at": "2026-09-13T07:14:31.804433+00:00"
+  },
+  {
+    "date": "2026-10-28",
+    "label": null,
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": null
+  },
+  {
+    "date": "2026-12-09",
+    "label": null,
+    "schedule_url": "https://www.bankofcanada.ca/2025/08/bank-canada-publishes-2026-schedule-policy-interest-rate-announcements-other-major-publications/",
+    "announcement_url": null
+  }
+]

@@ -1,0 +1,2786 @@
+[
+  {
+    "series": "cpi",
+    "reference": "2012-02-01",
+    "published_date": "2012-03-23",
+    "available_after": "2012-03-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120323/dq120323a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-03-01",
+    "published_date": "2012-04-20",
+    "available_after": "2012-04-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120420/dq120420a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-04-01",
+    "published_date": "2012-05-18",
+    "available_after": "2012-05-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120518/dq120518a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-05-01",
+    "published_date": "2012-06-22",
+    "available_after": "2012-06-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120622/dq120622a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-06-01",
+    "published_date": "2012-07-20",
+    "available_after": "2012-07-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120720/dq120720a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-07-01",
+    "published_date": "2012-08-17",
+    "available_after": "2012-08-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120817/dq120817a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-08-01",
+    "published_date": "2012-09-21",
+    "available_after": "2012-09-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120921/dq120921a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-09-01",
+    "published_date": "2012-10-19",
+    "available_after": "2012-10-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/121019/dq121019a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-10-01",
+    "published_date": "2012-11-23",
+    "available_after": "2012-11-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/121123/dq121123a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-11-01",
+    "published_date": "2012-12-21",
+    "available_after": "2012-12-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/121221/dq121221b-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2012-12-01",
+    "published_date": "2013-01-25",
+    "available_after": "2013-01-26",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130125/dq130125a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-01-01",
+    "published_date": "2013-02-22",
+    "available_after": "2013-02-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130222/dq130222a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-02-01",
+    "published_date": "2013-03-27",
+    "available_after": "2013-03-28",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130327/dq130327a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-03-01",
+    "published_date": "2013-04-19",
+    "available_after": "2013-04-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130419/dq130419a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-04-01",
+    "published_date": "2013-05-17",
+    "available_after": "2013-05-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130517/dq130517a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-05-01",
+    "published_date": "2013-06-21",
+    "available_after": "2013-06-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130621/dq130621a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-06-01",
+    "published_date": "2013-07-19",
+    "available_after": "2013-07-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130719/dq130719a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-07-01",
+    "published_date": "2013-08-23",
+    "available_after": "2013-08-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130823/dq130823a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-08-01",
+    "published_date": "2013-09-20",
+    "available_after": "2013-09-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130920/dq130920a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-09-01",
+    "published_date": "2013-10-18",
+    "available_after": "2013-10-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/131018/dq131018a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-10-01",
+    "published_date": "2013-11-22",
+    "available_after": "2013-11-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/131122/dq131122a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-11-01",
+    "published_date": "2013-12-20",
+    "available_after": "2013-12-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/131220/dq131220a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2013-12-01",
+    "published_date": "2014-01-24",
+    "available_after": "2014-01-25",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140124/dq140124a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-01-01",
+    "published_date": "2014-02-21",
+    "available_after": "2014-02-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140221/dq140221a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-02-01",
+    "published_date": "2014-03-21",
+    "available_after": "2014-03-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140321/dq140321a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-03-01",
+    "published_date": "2014-04-17",
+    "available_after": "2014-04-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140417/dq140417a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-04-01",
+    "published_date": "2014-05-23",
+    "available_after": "2014-05-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140523/dq140523a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-05-01",
+    "published_date": "2014-06-20",
+    "available_after": "2014-06-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140620/dq140620a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-06-01",
+    "published_date": "2014-07-18",
+    "available_after": "2014-07-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140718/dq140718a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-07-01",
+    "published_date": "2014-08-22",
+    "available_after": "2014-08-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140822/dq140822a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-08-01",
+    "published_date": "2014-09-19",
+    "available_after": "2014-09-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140919/dq140919a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-09-01",
+    "published_date": "2014-10-17",
+    "available_after": "2014-10-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/141017/dq141017a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-10-01",
+    "published_date": "2014-11-21",
+    "available_after": "2014-11-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/141121/dq141121a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-11-01",
+    "published_date": "2014-12-19",
+    "available_after": "2014-12-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/141219/dq141219a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2014-12-01",
+    "published_date": "2015-01-23",
+    "available_after": "2015-01-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150123/dq150123a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-01-01",
+    "published_date": "2015-02-26",
+    "available_after": "2015-02-27",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150226/dq150226a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-02-01",
+    "published_date": "2015-03-20",
+    "available_after": "2015-03-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150320/dq150320a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-03-01",
+    "published_date": "2015-04-17",
+    "available_after": "2015-04-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150417/dq150417a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-04-01",
+    "published_date": "2015-05-22",
+    "available_after": "2015-05-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150522/dq150522a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-05-01",
+    "published_date": "2015-06-19",
+    "available_after": "2015-06-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150619/dq150619a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-06-01",
+    "published_date": "2015-07-17",
+    "available_after": "2015-07-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150717/dq150717a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-07-01",
+    "published_date": "2015-08-21",
+    "available_after": "2015-08-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150821/dq150821a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-08-01",
+    "published_date": "2015-09-18",
+    "available_after": "2015-09-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150918/dq150918a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-09-01",
+    "published_date": "2015-10-23",
+    "available_after": "2015-10-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/151023/dq151023a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-10-01",
+    "published_date": "2015-11-20",
+    "available_after": "2015-11-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/151120/dq151120a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-11-01",
+    "published_date": "2015-12-18",
+    "available_after": "2015-12-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/151218/dq151218b-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2015-12-01",
+    "published_date": "2016-01-22",
+    "available_after": "2016-01-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160122/dq160122a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-01-01",
+    "published_date": "2016-02-19",
+    "available_after": "2016-02-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160219/dq160219a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-02-01",
+    "published_date": "2016-03-18",
+    "available_after": "2016-03-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160318/dq160318a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-03-01",
+    "published_date": "2016-04-22",
+    "available_after": "2016-04-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160422/dq160422a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-04-01",
+    "published_date": "2016-05-20",
+    "available_after": "2016-05-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160520/dq160520a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-05-01",
+    "published_date": "2016-06-17",
+    "available_after": "2016-06-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160617/dq160617a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-06-01",
+    "published_date": "2016-07-22",
+    "available_after": "2016-07-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160722/dq160722a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-07-01",
+    "published_date": "2016-08-19",
+    "available_after": "2016-08-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160819/dq160819a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-08-01",
+    "published_date": "2016-09-23",
+    "available_after": "2016-09-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160923/dq160923a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-09-01",
+    "published_date": "2016-10-21",
+    "available_after": "2016-10-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/161021/dq161021a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-10-01",
+    "published_date": "2016-11-18",
+    "available_after": "2016-11-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/161118/dq161118a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-11-01",
+    "published_date": "2016-12-22",
+    "available_after": "2016-12-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/161222/dq161222a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2016-12-01",
+    "published_date": "2017-01-20",
+    "available_after": "2017-01-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170120/dq170120a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-01-01",
+    "published_date": "2017-02-24",
+    "available_after": "2017-02-25",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170224/dq170224a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-02-01",
+    "published_date": "2017-03-24",
+    "available_after": "2017-03-25",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170324/dq170324a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-03-01",
+    "published_date": "2017-04-21",
+    "available_after": "2017-04-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170421/dq170421a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-04-01",
+    "published_date": "2017-05-19",
+    "available_after": "2017-05-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170519/dq170519a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-05-01",
+    "published_date": "2017-06-23",
+    "available_after": "2017-06-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170623/dq170623a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-06-01",
+    "published_date": "2017-07-21",
+    "available_after": "2017-07-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170721/dq170721a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-07-01",
+    "published_date": "2017-08-18",
+    "available_after": "2017-08-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170818/dq170818a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-08-01",
+    "published_date": "2017-09-22",
+    "available_after": "2017-09-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170922/dq170922a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-09-01",
+    "published_date": "2017-10-20",
+    "available_after": "2017-10-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/171020/dq171020a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-10-01",
+    "published_date": "2017-11-17",
+    "available_after": "2017-11-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/171117/dq171117a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-11-01",
+    "published_date": "2017-12-21",
+    "available_after": "2017-12-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/171221/dq171221a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2017-12-01",
+    "published_date": "2018-01-26",
+    "available_after": "2018-01-27",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180126/dq180126a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-01-01",
+    "published_date": "2018-02-23",
+    "available_after": "2018-02-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180223/dq180223a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-02-01",
+    "published_date": "2018-03-23",
+    "available_after": "2018-03-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180323/dq180323a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-03-01",
+    "published_date": "2018-04-20",
+    "available_after": "2018-04-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180420/dq180420a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-04-01",
+    "published_date": "2018-05-18",
+    "available_after": "2018-05-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180518/dq180518a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-05-01",
+    "published_date": "2018-06-22",
+    "available_after": "2018-06-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180622/dq180622a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-06-01",
+    "published_date": "2018-07-20",
+    "available_after": "2018-07-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180720/dq180720a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-07-01",
+    "published_date": "2018-08-17",
+    "available_after": "2018-08-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180817/dq180817a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-08-01",
+    "published_date": "2018-09-21",
+    "available_after": "2018-09-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180921/dq180921a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-09-01",
+    "published_date": "2018-10-19",
+    "available_after": "2018-10-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/181019/dq181019a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-10-01",
+    "published_date": "2018-11-23",
+    "available_after": "2018-11-24",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/181123/dq181123a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-11-01",
+    "published_date": "2018-12-19",
+    "available_after": "2018-12-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/181219/dq181219a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2018-12-01",
+    "published_date": "2019-01-18",
+    "available_after": "2019-01-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190118/dq190118a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-01-01",
+    "published_date": "2019-02-27",
+    "available_after": "2019-02-28",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190227/dq190227a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-02-01",
+    "published_date": "2019-03-22",
+    "available_after": "2019-03-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190322/dq190322a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-03-01",
+    "published_date": "2019-04-17",
+    "available_after": "2019-04-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190417/dq190417a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-04-01",
+    "published_date": "2019-05-15",
+    "available_after": "2019-05-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190515/dq190515a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-05-01",
+    "published_date": "2019-06-19",
+    "available_after": "2019-06-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190619/dq190619a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-06-01",
+    "published_date": "2019-07-17",
+    "available_after": "2019-07-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190717/dq190717a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-07-01",
+    "published_date": "2019-08-21",
+    "available_after": "2019-08-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190821/dq190821a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-08-01",
+    "published_date": "2019-09-18",
+    "available_after": "2019-09-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190918/dq190918a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-09-01",
+    "published_date": "2019-10-16",
+    "available_after": "2019-10-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/191016/dq191016a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-10-01",
+    "published_date": "2019-11-20",
+    "available_after": "2019-11-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/191120/dq191120a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-11-01",
+    "published_date": "2019-12-18",
+    "available_after": "2019-12-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/191218/dq191218a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2019-12-01",
+    "published_date": "2020-01-22",
+    "available_after": "2020-01-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200122/dq200122a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-01-01",
+    "published_date": "2020-02-19",
+    "available_after": "2020-02-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200219/dq200219a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-02-01",
+    "published_date": "2020-03-18",
+    "available_after": "2020-03-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200318/dq200318a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-03-01",
+    "published_date": "2020-04-22",
+    "available_after": "2020-04-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200422/dq200422a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-04-01",
+    "published_date": "2020-05-20",
+    "available_after": "2020-05-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200520/dq200520a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-05-01",
+    "published_date": "2020-06-17",
+    "available_after": "2020-06-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200617/dq200617a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-06-01",
+    "published_date": "2020-07-22",
+    "available_after": "2020-07-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200722/dq200722a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-07-01",
+    "published_date": "2020-08-19",
+    "available_after": "2020-08-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200819/dq200819b-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-08-01",
+    "published_date": "2020-09-16",
+    "available_after": "2020-09-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200916/dq200916a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-09-01",
+    "published_date": "2020-10-21",
+    "available_after": "2020-10-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/201021/dq201021a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-10-01",
+    "published_date": "2020-11-18",
+    "available_after": "2020-11-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/201118/dq201118a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-11-01",
+    "published_date": "2020-12-16",
+    "available_after": "2020-12-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/201216/dq201216a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2020-12-01",
+    "published_date": "2021-01-20",
+    "available_after": "2021-01-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210120/dq210120a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-01-01",
+    "published_date": "2021-02-17",
+    "available_after": "2021-02-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210217/dq210217a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-02-01",
+    "published_date": "2021-03-17",
+    "available_after": "2021-03-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210317/dq210317a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-03-01",
+    "published_date": "2021-04-21",
+    "available_after": "2021-04-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210421/dq210421a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-04-01",
+    "published_date": "2021-05-19",
+    "available_after": "2021-05-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210519/dq210519a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-05-01",
+    "published_date": "2021-06-16",
+    "available_after": "2021-06-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210616/dq210616a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-06-01",
+    "published_date": "2021-07-28",
+    "available_after": "2021-07-29",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210728/dq210728a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-07-01",
+    "published_date": "2021-08-18",
+    "available_after": "2021-08-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210818/dq210818a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-08-01",
+    "published_date": "2021-09-15",
+    "available_after": "2021-09-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210915/dq210915a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-09-01",
+    "published_date": "2021-10-20",
+    "available_after": "2021-10-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/211020/dq211020a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-10-01",
+    "published_date": "2021-11-17",
+    "available_after": "2021-11-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/211117/dq211117a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-11-01",
+    "published_date": "2021-12-15",
+    "available_after": "2021-12-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/211215/dq211215a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2021-12-01",
+    "published_date": "2022-01-19",
+    "available_after": "2022-01-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220119/dq220119a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-01-01",
+    "published_date": "2022-02-16",
+    "available_after": "2022-02-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220216/dq220216a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-02-01",
+    "published_date": "2022-03-16",
+    "available_after": "2022-03-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220316/dq220316a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-03-01",
+    "published_date": "2022-04-20",
+    "available_after": "2022-04-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220420/dq220420a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-04-01",
+    "published_date": "2022-05-18",
+    "available_after": "2022-05-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220518/dq220518a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-05-01",
+    "published_date": "2022-06-22",
+    "available_after": "2022-06-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220622/dq220622a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-06-01",
+    "published_date": "2022-07-20",
+    "available_after": "2022-07-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220720/dq220720a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-07-01",
+    "published_date": "2022-08-16",
+    "available_after": "2022-08-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220816/dq220816a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-08-01",
+    "published_date": "2022-09-20",
+    "available_after": "2022-09-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220920/dq220920a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-09-01",
+    "published_date": "2022-10-19",
+    "available_after": "2022-10-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/221019/dq221019a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-10-01",
+    "published_date": "2022-11-16",
+    "available_after": "2022-11-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/221116/dq221116a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-11-01",
+    "published_date": "2022-12-21",
+    "available_after": "2022-12-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/221221/dq221221a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2022-12-01",
+    "published_date": "2023-01-17",
+    "available_after": "2023-01-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230117/dq230117a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-01-01",
+    "published_date": "2023-02-21",
+    "available_after": "2023-02-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230221/dq230221a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-02-01",
+    "published_date": "2023-03-21",
+    "available_after": "2023-03-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230321/dq230321a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-03-01",
+    "published_date": "2023-04-18",
+    "available_after": "2023-04-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230418/dq230418a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-04-01",
+    "published_date": "2023-05-16",
+    "available_after": "2023-05-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230516/dq230516a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-05-01",
+    "published_date": "2023-06-27",
+    "available_after": "2023-06-28",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230627/dq230627a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-06-01",
+    "published_date": "2023-07-18",
+    "available_after": "2023-07-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230718/dq230718a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-07-01",
+    "published_date": "2023-08-15",
+    "available_after": "2023-08-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230815/dq230815a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-08-01",
+    "published_date": "2023-09-19",
+    "available_after": "2023-09-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230919/dq230919a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-09-01",
+    "published_date": "2023-10-17",
+    "available_after": "2023-10-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/231017/dq231017a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-10-01",
+    "published_date": "2023-11-21",
+    "available_after": "2023-11-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/231121/dq231121a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-11-01",
+    "published_date": "2023-12-19",
+    "available_after": "2023-12-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/231219/dq231219a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2023-12-01",
+    "published_date": "2024-01-16",
+    "available_after": "2024-01-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240116/dq240116a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-01-01",
+    "published_date": "2024-02-20",
+    "available_after": "2024-02-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240220/dq240220a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-02-01",
+    "published_date": "2024-03-19",
+    "available_after": "2024-03-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240319/dq240319a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-03-01",
+    "published_date": "2024-04-16",
+    "available_after": "2024-04-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240416/dq240416a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-04-01",
+    "published_date": "2024-05-21",
+    "available_after": "2024-05-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240521/dq240521a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-05-01",
+    "published_date": "2024-06-25",
+    "available_after": "2024-06-26",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240625/dq240625a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-06-01",
+    "published_date": "2024-07-16",
+    "available_after": "2024-07-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240716/dq240716a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-07-01",
+    "published_date": "2024-08-20",
+    "available_after": "2024-08-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240820/dq240820a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-08-01",
+    "published_date": "2024-09-17",
+    "available_after": "2024-09-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240917/dq240917a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-09-01",
+    "published_date": "2024-10-15",
+    "available_after": "2024-10-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/241015/dq241015a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-10-01",
+    "published_date": "2024-11-19",
+    "available_after": "2024-11-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/241119/dq241119a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-11-01",
+    "published_date": "2024-12-17",
+    "available_after": "2024-12-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/241217/dq241217a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2024-12-01",
+    "published_date": "2025-01-21",
+    "available_after": "2025-01-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250121/dq250121a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-01-01",
+    "published_date": "2025-02-18",
+    "available_after": "2025-02-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250218/dq250218a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-02-01",
+    "published_date": "2025-03-18",
+    "available_after": "2025-03-19",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250318/dq250318a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-03-01",
+    "published_date": "2025-04-15",
+    "available_after": "2025-04-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250415/dq250415a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-04-01",
+    "published_date": "2025-05-20",
+    "available_after": "2025-05-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250520/dq250520a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-05-01",
+    "published_date": "2025-06-24",
+    "available_after": "2025-06-25",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250624/dq250624a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-06-01",
+    "published_date": "2025-07-15",
+    "available_after": "2025-07-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250715/dq250715a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-07-01",
+    "published_date": "2025-08-19",
+    "available_after": "2025-08-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250819/dq250819a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-08-01",
+    "published_date": "2025-09-16",
+    "available_after": "2025-09-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250916/dq250916a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-09-01",
+    "published_date": "2025-10-21",
+    "available_after": "2025-10-22",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/251021/dq251021a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-10-01",
+    "published_date": "2025-11-17",
+    "available_after": "2025-11-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/251117/dq251117a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-11-01",
+    "published_date": "2025-12-15",
+    "available_after": "2025-12-16",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/251215/dq251215a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2025-12-01",
+    "published_date": "2026-01-19",
+    "available_after": "2026-01-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260119/dq260119a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2026-01-01",
+    "published_date": "2026-02-17",
+    "available_after": "2026-02-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260217/dq260217a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2026-02-01",
+    "published_date": "2026-03-16",
+    "available_after": "2026-03-17",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260316/dq260316a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2026-03-01",
+    "published_date": "2026-04-20",
+    "available_after": "2026-04-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260420/dq260420a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2026-04-01",
+    "published_date": "2026-05-19",
+    "available_after": "2026-05-20",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260519/dq260519a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2026-05-01",
+    "published_date": "2026-06-22",
+    "available_after": "2026-06-23",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260622/dq260622a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2026-06-01",
+    "published_date": "2026-07-20",
+    "available_after": "2026-07-21",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260720/dq260720a-eng.htm"
+  },
+  {
+    "series": "cpi",
+    "reference": "2026-07-01",
+    "published_date": "2026-08-17",
+    "available_after": "2026-08-18",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260817/dq260817a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-03-01",
+    "published_date": "2012-04-05",
+    "available_after": "2012-04-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120405/dq120405a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-04-01",
+    "published_date": "2012-05-11",
+    "available_after": "2012-05-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120511/dq120511a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-05-01",
+    "published_date": "2012-06-08",
+    "available_after": "2012-06-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120608/dq120608a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-06-01",
+    "published_date": "2012-07-06",
+    "available_after": "2012-07-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120706/dq120706a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-07-01",
+    "published_date": "2012-08-10",
+    "available_after": "2012-08-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120810/dq120810a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-08-01",
+    "published_date": "2012-09-07",
+    "available_after": "2012-09-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/120907/dq120907a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-09-01",
+    "published_date": "2012-10-05",
+    "available_after": "2012-10-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/121005/dq121005a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-10-01",
+    "published_date": "2012-11-02",
+    "available_after": "2012-11-03",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/121102/dq121102a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-11-01",
+    "published_date": "2012-12-07",
+    "available_after": "2012-12-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/121207/dq121207a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2012-12-01",
+    "published_date": "2013-01-04",
+    "available_after": "2013-01-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130104/dq130104a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-01-01",
+    "published_date": "2013-02-08",
+    "available_after": "2013-02-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130208/dq130208a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-02-01",
+    "published_date": "2013-03-08",
+    "available_after": "2013-03-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130308/dq130308a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-03-01",
+    "published_date": "2013-04-05",
+    "available_after": "2013-04-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130405/dq130405a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-04-01",
+    "published_date": "2013-05-10",
+    "available_after": "2013-05-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130510/dq130510a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-05-01",
+    "published_date": "2013-06-07",
+    "available_after": "2013-06-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130607/dq130607a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-06-01",
+    "published_date": "2013-07-05",
+    "available_after": "2013-07-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130705/dq130705a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-07-01",
+    "published_date": "2013-08-09",
+    "available_after": "2013-08-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130809/dq130809a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-08-01",
+    "published_date": "2013-09-06",
+    "available_after": "2013-09-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/130906/dq130906a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-09-01",
+    "published_date": "2013-10-11",
+    "available_after": "2013-10-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/131011/dq131011a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-10-01",
+    "published_date": "2013-11-08",
+    "available_after": "2013-11-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/131108/dq131108a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-11-01",
+    "published_date": "2013-12-06",
+    "available_after": "2013-12-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/131206/dq131206a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2013-12-01",
+    "published_date": "2014-01-10",
+    "available_after": "2014-01-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140110/dq140110a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-01-01",
+    "published_date": "2014-02-07",
+    "available_after": "2014-02-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140207/dq140207a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-02-01",
+    "published_date": "2014-03-07",
+    "available_after": "2014-03-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140307/dq140307a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-03-01",
+    "published_date": "2014-04-04",
+    "available_after": "2014-04-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140404/dq140404a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-04-01",
+    "published_date": "2014-05-09",
+    "available_after": "2014-05-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140509/dq140509a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-05-01",
+    "published_date": "2014-06-06",
+    "available_after": "2014-06-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140606/dq140606a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-06-01",
+    "published_date": "2014-07-11",
+    "available_after": "2014-07-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140711/dq140711a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-07-01",
+    "published_date": "2014-08-08",
+    "available_after": "2014-08-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140808/dq140808a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-08-01",
+    "published_date": "2014-09-05",
+    "available_after": "2014-09-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/140905/dq140905a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-09-01",
+    "published_date": "2014-10-10",
+    "available_after": "2014-10-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/141010/dq141010a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-10-01",
+    "published_date": "2014-11-07",
+    "available_after": "2014-11-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/141107/dq141107a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-11-01",
+    "published_date": "2014-12-05",
+    "available_after": "2014-12-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/141205/dq141205a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2014-12-01",
+    "published_date": "2015-01-09",
+    "available_after": "2015-01-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150109/dq150109a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-01-01",
+    "published_date": "2015-02-06",
+    "available_after": "2015-02-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150206/dq150206a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-02-01",
+    "published_date": "2015-03-13",
+    "available_after": "2015-03-14",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150313/dq150313a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-03-01",
+    "published_date": "2015-04-10",
+    "available_after": "2015-04-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150410/dq150410a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-04-01",
+    "published_date": "2015-05-08",
+    "available_after": "2015-05-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150508/dq150508a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-05-01",
+    "published_date": "2015-06-05",
+    "available_after": "2015-06-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150605/dq150605a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-06-01",
+    "published_date": "2015-07-10",
+    "available_after": "2015-07-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150710/dq150710a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-07-01",
+    "published_date": "2015-08-07",
+    "available_after": "2015-08-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150807/dq150807a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-08-01",
+    "published_date": "2015-09-04",
+    "available_after": "2015-09-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/150904/dq150904a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-09-01",
+    "published_date": "2015-10-09",
+    "available_after": "2015-10-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/151009/dq151009a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-10-01",
+    "published_date": "2015-11-06",
+    "available_after": "2015-11-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/151106/dq151106a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-11-01",
+    "published_date": "2015-12-04",
+    "available_after": "2015-12-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/151204/dq151204a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2015-12-01",
+    "published_date": "2016-01-08",
+    "available_after": "2016-01-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160108/dq160108a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-01-01",
+    "published_date": "2016-02-05",
+    "available_after": "2016-02-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160205/dq160205a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-02-01",
+    "published_date": "2016-03-11",
+    "available_after": "2016-03-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160311/dq160311a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-03-01",
+    "published_date": "2016-04-08",
+    "available_after": "2016-04-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160408/dq160408a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-04-01",
+    "published_date": "2016-05-06",
+    "available_after": "2016-05-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160506/dq160506a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-05-01",
+    "published_date": "2016-06-10",
+    "available_after": "2016-06-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160610/dq160610a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-06-01",
+    "published_date": "2016-07-08",
+    "available_after": "2016-07-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160708/dq160708a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-07-01",
+    "published_date": "2016-08-05",
+    "available_after": "2016-08-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160805/dq160805a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-08-01",
+    "published_date": "2016-09-09",
+    "available_after": "2016-09-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/160909/dq160909a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-09-01",
+    "published_date": "2016-10-07",
+    "available_after": "2016-10-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/161007/dq161007a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-10-01",
+    "published_date": "2016-11-04",
+    "available_after": "2016-11-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/161104/dq161104a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-11-01",
+    "published_date": "2016-12-02",
+    "available_after": "2016-12-03",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/161202/dq161202a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2016-12-01",
+    "published_date": "2017-01-06",
+    "available_after": "2017-01-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170106/dq170106a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-01-01",
+    "published_date": "2017-02-10",
+    "available_after": "2017-02-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170210/dq170210a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-02-01",
+    "published_date": "2017-03-10",
+    "available_after": "2017-03-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170310/dq170310a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-03-01",
+    "published_date": "2017-04-07",
+    "available_after": "2017-04-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170407/dq170407a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-04-01",
+    "published_date": "2017-05-05",
+    "available_after": "2017-05-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170505/dq170505a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-05-01",
+    "published_date": "2017-06-09",
+    "available_after": "2017-06-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170609/dq170609a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-06-01",
+    "published_date": "2017-07-07",
+    "available_after": "2017-07-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170707/dq170707a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-07-01",
+    "published_date": "2017-08-04",
+    "available_after": "2017-08-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170804/dq170804a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-08-01",
+    "published_date": "2017-09-08",
+    "available_after": "2017-09-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/170908/dq170908a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-09-01",
+    "published_date": "2017-10-06",
+    "available_after": "2017-10-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/171006/dq171006a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-10-01",
+    "published_date": "2017-11-03",
+    "available_after": "2017-11-04",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/171103/dq171103a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-11-01",
+    "published_date": "2017-12-01",
+    "available_after": "2017-12-02",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/171201/dq171201a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2017-12-01",
+    "published_date": "2018-01-05",
+    "available_after": "2018-01-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180105/dq180105a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-01-01",
+    "published_date": "2018-02-09",
+    "available_after": "2018-02-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180209/dq180209a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-02-01",
+    "published_date": "2018-03-09",
+    "available_after": "2018-03-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180309/dq180309a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-03-01",
+    "published_date": "2018-04-06",
+    "available_after": "2018-04-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180406/dq180406a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-04-01",
+    "published_date": "2018-05-11",
+    "available_after": "2018-05-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180511/dq180511a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-05-01",
+    "published_date": "2018-06-08",
+    "available_after": "2018-06-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180608/dq180608a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-06-01",
+    "published_date": "2018-07-06",
+    "available_after": "2018-07-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180706/dq180706a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-07-01",
+    "published_date": "2018-08-10",
+    "available_after": "2018-08-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180810/dq180810a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-08-01",
+    "published_date": "2018-09-07",
+    "available_after": "2018-09-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/180907/dq180907a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-09-01",
+    "published_date": "2018-10-05",
+    "available_after": "2018-10-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/181005/dq181005a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-10-01",
+    "published_date": "2018-11-02",
+    "available_after": "2018-11-03",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/181102/dq181102a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-11-01",
+    "published_date": "2018-12-07",
+    "available_after": "2018-12-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/181207/dq181207a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2018-12-01",
+    "published_date": "2019-01-04",
+    "available_after": "2019-01-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190104/dq190104a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-01-01",
+    "published_date": "2019-02-08",
+    "available_after": "2019-02-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190208/dq190208a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-02-01",
+    "published_date": "2019-03-08",
+    "available_after": "2019-03-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190308/dq190308a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-03-01",
+    "published_date": "2019-04-05",
+    "available_after": "2019-04-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190405/dq190405a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-04-01",
+    "published_date": "2019-05-10",
+    "available_after": "2019-05-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190510/dq190510a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-05-01",
+    "published_date": "2019-06-07",
+    "available_after": "2019-06-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190607/dq190607a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-06-01",
+    "published_date": "2019-07-05",
+    "available_after": "2019-07-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190705/dq190705a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-07-01",
+    "published_date": "2019-08-09",
+    "available_after": "2019-08-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190809/dq190809a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-08-01",
+    "published_date": "2019-09-06",
+    "available_after": "2019-09-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/190906/dq190906a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-09-01",
+    "published_date": "2019-10-11",
+    "available_after": "2019-10-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/191011/dq191011a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-10-01",
+    "published_date": "2019-11-08",
+    "available_after": "2019-11-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/191108/dq191108a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-11-01",
+    "published_date": "2019-12-06",
+    "available_after": "2019-12-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/191206/dq191206a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2019-12-01",
+    "published_date": "2020-01-10",
+    "available_after": "2020-01-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200110/dq200110a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-01-01",
+    "published_date": "2020-02-07",
+    "available_after": "2020-02-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200207/dq200207a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-02-01",
+    "published_date": "2020-03-06",
+    "available_after": "2020-03-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200306/dq200306a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-03-01",
+    "published_date": "2020-04-09",
+    "available_after": "2020-04-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200409/dq200409a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-04-01",
+    "published_date": "2020-05-08",
+    "available_after": "2020-05-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200508/dq200508a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-05-01",
+    "published_date": "2020-06-05",
+    "available_after": "2020-06-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200605/dq200605a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-06-01",
+    "published_date": "2020-07-10",
+    "available_after": "2020-07-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200710/dq200710a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-07-01",
+    "published_date": "2020-08-07",
+    "available_after": "2020-08-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200807/dq200807a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-08-01",
+    "published_date": "2020-09-04",
+    "available_after": "2020-09-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200904/dq200904a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-09-01",
+    "published_date": "2020-10-09",
+    "available_after": "2020-10-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/201009/dq201009a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-10-01",
+    "published_date": "2020-11-06",
+    "available_after": "2020-11-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/201106/dq201106a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-11-01",
+    "published_date": "2020-12-04",
+    "available_after": "2020-12-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/201204/dq201204a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2020-12-01",
+    "published_date": "2021-01-08",
+    "available_after": "2021-01-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210108/dq210108a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-01-01",
+    "published_date": "2021-02-05",
+    "available_after": "2021-02-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210205/dq210205a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-02-01",
+    "published_date": "2021-03-12",
+    "available_after": "2021-03-13",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210312/dq210312a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-03-01",
+    "published_date": "2021-04-09",
+    "available_after": "2021-04-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210409/dq210409a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-04-01",
+    "published_date": "2021-05-07",
+    "available_after": "2021-05-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210507/dq210507a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-05-01",
+    "published_date": "2021-06-04",
+    "available_after": "2021-06-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210604/dq210604a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-06-01",
+    "published_date": "2021-07-09",
+    "available_after": "2021-07-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210709/dq210709a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-07-01",
+    "published_date": "2021-08-06",
+    "available_after": "2021-08-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210806/dq210806a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-08-01",
+    "published_date": "2021-09-10",
+    "available_after": "2021-09-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/210910/dq210910a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-09-01",
+    "published_date": "2021-10-08",
+    "available_after": "2021-10-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/211008/dq211008a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-10-01",
+    "published_date": "2021-11-05",
+    "available_after": "2021-11-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/211105/dq211105a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-11-01",
+    "published_date": "2021-12-03",
+    "available_after": "2021-12-04",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/211203/dq211203a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2021-12-01",
+    "published_date": "2022-01-07",
+    "available_after": "2022-01-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220107/dq220107a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-01-01",
+    "published_date": "2022-02-04",
+    "available_after": "2022-02-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220204/dq220204a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-02-01",
+    "published_date": "2022-03-11",
+    "available_after": "2022-03-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220311/dq220311a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-03-01",
+    "published_date": "2022-04-08",
+    "available_after": "2022-04-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220408/dq220408a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-04-01",
+    "published_date": "2022-05-06",
+    "available_after": "2022-05-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220506/dq220506a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-05-01",
+    "published_date": "2022-06-10",
+    "available_after": "2022-06-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220610/dq220610a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-06-01",
+    "published_date": "2022-07-08",
+    "available_after": "2022-07-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220708/dq220708a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-07-01",
+    "published_date": "2022-08-05",
+    "available_after": "2022-08-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220805/dq220805a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-08-01",
+    "published_date": "2022-09-09",
+    "available_after": "2022-09-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/220909/dq220909a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-09-01",
+    "published_date": "2022-10-07",
+    "available_after": "2022-10-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/221007/dq221007a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-10-01",
+    "published_date": "2022-11-04",
+    "available_after": "2022-11-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/221104/dq221104a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-11-01",
+    "published_date": "2022-12-02",
+    "available_after": "2022-12-03",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/221202/dq221202a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2022-12-01",
+    "published_date": "2023-01-06",
+    "available_after": "2023-01-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230106/dq230106a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-01-01",
+    "published_date": "2023-02-10",
+    "available_after": "2023-02-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230210/dq230210a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-02-01",
+    "published_date": "2023-03-10",
+    "available_after": "2023-03-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230310/dq230310a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-03-01",
+    "published_date": "2023-04-06",
+    "available_after": "2023-04-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230406/dq230406a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-04-01",
+    "published_date": "2023-05-05",
+    "available_after": "2023-05-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230505/dq230505a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-05-01",
+    "published_date": "2023-06-09",
+    "available_after": "2023-06-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230609/dq230609a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-06-01",
+    "published_date": "2023-07-07",
+    "available_after": "2023-07-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230707/dq230707a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-07-01",
+    "published_date": "2023-08-04",
+    "available_after": "2023-08-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230804/dq230804a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-08-01",
+    "published_date": "2023-09-08",
+    "available_after": "2023-09-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/230908/dq230908a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-09-01",
+    "published_date": "2023-10-06",
+    "available_after": "2023-10-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/231006/dq231006a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-10-01",
+    "published_date": "2023-11-03",
+    "available_after": "2023-11-04",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/231103/dq231103a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-11-01",
+    "published_date": "2023-12-01",
+    "available_after": "2023-12-02",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/231201/dq231201a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2023-12-01",
+    "published_date": "2024-01-05",
+    "available_after": "2024-01-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240105/dq240105a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-01-01",
+    "published_date": "2024-02-09",
+    "available_after": "2024-02-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240209/dq240209a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-02-01",
+    "published_date": "2024-03-08",
+    "available_after": "2024-03-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240308/dq240308a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-03-01",
+    "published_date": "2024-04-05",
+    "available_after": "2024-04-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240405/dq240405a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-04-01",
+    "published_date": "2024-05-10",
+    "available_after": "2024-05-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240510/dq240510a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-05-01",
+    "published_date": "2024-06-07",
+    "available_after": "2024-06-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240607/dq240607a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-06-01",
+    "published_date": "2024-07-05",
+    "available_after": "2024-07-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240705/dq240705a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-07-01",
+    "published_date": "2024-08-09",
+    "available_after": "2024-08-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240809/dq240809a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-08-01",
+    "published_date": "2024-09-06",
+    "available_after": "2024-09-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/240906/dq240906a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-09-01",
+    "published_date": "2024-10-11",
+    "available_after": "2024-10-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/241011/dq241011a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-10-01",
+    "published_date": "2024-11-08",
+    "available_after": "2024-11-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/241108/dq241108a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-11-01",
+    "published_date": "2024-12-06",
+    "available_after": "2024-12-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/241206/dq241206a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2024-12-01",
+    "published_date": "2025-01-10",
+    "available_after": "2025-01-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250110/dq250110a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-01-01",
+    "published_date": "2025-02-07",
+    "available_after": "2025-02-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250207/dq250207a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-02-01",
+    "published_date": "2025-03-07",
+    "available_after": "2025-03-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250307/dq250307a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-03-01",
+    "published_date": "2025-04-04",
+    "available_after": "2025-04-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250404/dq250404a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-04-01",
+    "published_date": "2025-05-09",
+    "available_after": "2025-05-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250509/dq250509a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-05-01",
+    "published_date": "2025-06-06",
+    "available_after": "2025-06-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250606/dq250606a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-06-01",
+    "published_date": "2025-07-11",
+    "available_after": "2025-07-12",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250711/dq250711a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-07-01",
+    "published_date": "2025-08-08",
+    "available_after": "2025-08-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250808/dq250808a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-08-01",
+    "published_date": "2025-09-05",
+    "available_after": "2025-09-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/250905/dq250905a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-09-01",
+    "published_date": "2025-10-10",
+    "available_after": "2025-10-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/251010/dq251010a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-10-01",
+    "published_date": "2025-11-07",
+    "available_after": "2025-11-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/251107/dq251107a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-11-01",
+    "published_date": "2025-12-05",
+    "available_after": "2025-12-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/251205/dq251205a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2025-12-01",
+    "published_date": "2026-01-09",
+    "available_after": "2026-01-10",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260109/dq260109a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-01-01",
+    "published_date": "2026-02-06",
+    "available_after": "2026-02-07",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260206/dq260206a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-02-01",
+    "published_date": "2026-03-13",
+    "available_after": "2026-03-14",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260313/dq260313a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-03-01",
+    "published_date": "2026-04-10",
+    "available_after": "2026-04-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260410/dq260410a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-04-01",
+    "published_date": "2026-05-08",
+    "available_after": "2026-05-09",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260508/dq260508a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-05-01",
+    "published_date": "2026-06-05",
+    "available_after": "2026-06-06",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260605/dq260605a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-06-01",
+    "published_date": "2026-07-10",
+    "available_after": "2026-07-11",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260710/dq260710a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-07-01",
+    "published_date": "2026-08-07",
+    "available_after": "2026-08-08",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260807/dq260807a-eng.htm"
+  },
+  {
+    "series": "unemployment",
+    "reference": "2026-08-01",
+    "published_date": "2026-09-04",
+    "available_after": "2026-09-05",
+    "precision": "day; usable next day",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260904/dq260904a-eng.htm"
+  }
+]

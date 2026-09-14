@@ -1,0 +1,35 @@
+{
+  "retrieved_at": "2026-09-13T07:15:33.381966+00:00",
+  "sources": {
+    "policy": {
+      "url": "https://www.bankofcanada.ca/valet/observations/V39079/json?start_date=1995-01-01",
+      "metadata": {
+        "V39079": {
+          "label": "Target for the overnight rate (business daily)",
+          "description": "Also called the policy interest rate, the average rate that the Bank of Canada wants to see in the market for overnight money market financing. (V39079)",
+          "dimension": {
+            "key": "d",
+            "name": "Date"
+          }
+        }
+      }
+    },
+    "cpi": {
+      "url": "https://www.bankofcanada.ca/valet/observations/V41690973/json?start_date=1995-01-01",
+      "metadata": {
+        "V41690973": {
+          "label": "Total CPI",
+          "description": "The total Consumer Price Index (CPI) measures the average change over time in prices paid by Canadian consumers for a basket of goods and services. It is the primary inflation indicator, as published by Statistics Canada and tracked by the Bank of Canada.",
+          "dimension": {
+            "key": "d",
+            "name": "Date"
+          }
+        }
+      }
+    },
+    "unemployment": {
+      "url": "https://www150.statcan.gc.ca/t1/wds/rest/getDataFromVectorsAndLatestNPeriods",
+      "vector": 2062815
+    }
+  }
+}
