@@ -22,25 +22,8 @@
 | always_hold | 67.1% | 33.3% | 9.084 | 0.658 |
 | persistence | 76.7% | 72.0% | 6.435 | 0.466 |
 
-Deterministic baselines are chiefly accuracy comparisons. Lower log loss and Brier score are better.
+Model accuracy did not exceed the repeat-previous-decision baseline on this sample.
+Lower log loss and Brier score are better; deterministic baselines are mainly accuracy comparisons.
 
-## Interpretation
-
-The model assigns the highest probability to a hold. These estimates use six macro indicators; policy-context text does not affect them.
-Historical results test whether the macro model adds value; they do not establish a forecasting advantage.
-
-## Prospective record
-
-Deadline: 0 issued, 0 scored.
-Early: 1 issued, 0 scored.
-
-Only explicitly issued audit records count as prospective forecasts. Early and deadline forecasts are scored separately.
-
-## Limitations
-
-- Historical inputs use current numerical vintages and may contain revisions.
-- Historical results are reconstructions. Same-day releases are excluded.
-- Only scheduled decisions are targets; six features omit other policy drivers.
-- No timestamped meeting-specific market benchmark is available.
-- Local hashes detect edits but cannot prove issue time or prevent wholesale rewriting.
-- 2 meetings lacked usable inputs; details are in evaluation.json.
+Historical values may be revised. Same-day releases are excluded. Only scheduled decisions are tested, and six indicators omit other policy drivers.
+2 meetings lacked usable inputs.

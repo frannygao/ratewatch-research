@@ -7,11 +7,14 @@ from ratewatch.sources import load_data
 
 def main():
     parser = argparse.ArgumentParser(description='Bank of Canada cut, hold and hike probabilities.')
-    parser.add_argument('--offline', action='store_true', help='Use the saved data and its original cutoff.')
-    parser.add_argument('--issue', action='store_true', help='Record a prospective forecast after fresh downloads.')
+    options = parser.add_mutually_exclusive_group()
+    options.add_argument('--saved', dest='offline', action='store_true',
+                         help='Rerun the saved data at its saved date, without downloading.')
+    options.add_argument('--record', dest='issue', action='store_true',
+                         help='Save a dated forecast for later evaluation. Requires fresh downloads.')
+    options.add_argument('--offline', dest='offline', action='store_true', help=argparse.SUPPRESS)
+    options.add_argument('--issue', dest='issue', action='store_true', help=argparse.SUPPRESS)
     args = parser.parse_args()
-    if args.offline and args.issue:
-        parser.error('Issuing requires fresh downloads; --offline cannot be combined with --issue.')
 
     data = load_data(offline=args.offline)
     evaluation = evaluate(data)

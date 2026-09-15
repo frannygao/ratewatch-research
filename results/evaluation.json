@@ -2,278 +2,38 @@
   "n": 73,
   "start": "2017-09-06",
   "end": "2026-09-02",
-  "primary_metric": "multiclass log loss",
   "scores": {
     "model": {
       "accuracy": 0.7397260273972602,
       "balanced_accuracy": 0.5129251700680272,
-      "macro_f1": 0.5313267813267813,
       "log_loss": 0.69790893540585,
-      "brier": 0.4074300339305054,
-      "recall": {
-        "cut": 0.1,
-        "hold": 0.9387755102040817,
-        "hike": 0.5
-      },
-      "support": {
-        "cut": 10,
-        "hold": 49,
-        "hike": 14
-      },
-      "confusion_matrix": [
-        [
-          1,
-          9,
-          0
-        ],
-        [
-          0,
-          46,
-          3
-        ],
-        [
-          0,
-          7,
-          7
-        ]
-      ]
+      "brier": 0.4074300339305054
     },
     "frequency": {
       "accuracy": 0.6712328767123288,
       "balanced_accuracy": 0.3333333333333333,
-      "macro_f1": 0.2677595628415301,
       "log_loss": 0.9441740947675054,
-      "brier": 0.5314149930904585,
-      "recall": {
-        "cut": 0.0,
-        "hold": 1.0,
-        "hike": 0.0
-      },
-      "support": {
-        "cut": 10,
-        "hold": 49,
-        "hike": 14
-      },
-      "confusion_matrix": [
-        [
-          0,
-          10,
-          0
-        ],
-        [
-          0,
-          49,
-          0
-        ],
-        [
-          0,
-          14,
-          0
-        ]
-      ]
+      "brier": 0.5314149930904585
     },
     "transition": {
       "accuracy": 0.7123287671232876,
       "balanced_accuracy": 0.527891156462585,
-      "macro_f1": 0.5554518103537711,
       "log_loss": 0.703556060224635,
-      "brier": 0.39887780055764094,
-      "recall": {
-        "cut": 0.4,
-        "hold": 0.8979591836734694,
-        "hike": 0.2857142857142857
-      },
-      "support": {
-        "cut": 10,
-        "hold": 49,
-        "hike": 14
-      },
-      "confusion_matrix": [
-        [
-          4,
-          6,
-          0
-        ],
-        [
-          2,
-          44,
-          3
-        ],
-        [
-          1,
-          9,
-          4
-        ]
-      ]
+      "brier": 0.39887780055764094
     },
     "always_hold": {
       "accuracy": 0.6712328767123288,
       "balanced_accuracy": 0.3333333333333333,
-      "macro_f1": 0.2677595628415301,
       "log_loss": 9.084171325784729,
-      "brier": 0.6575342465753424,
-      "recall": {
-        "cut": 0.0,
-        "hold": 1.0,
-        "hike": 0.0
-      },
-      "support": {
-        "cut": 10,
-        "hold": 49,
-        "hike": 14
-      },
-      "confusion_matrix": [
-        [
-          0,
-          10,
-          0
-        ],
-        [
-          0,
-          49,
-          0
-        ],
-        [
-          0,
-          14,
-          0
-        ]
-      ]
+      "brier": 0.6575342465753424
     },
     "persistence": {
       "accuracy": 0.7671232876712328,
       "balanced_accuracy": 0.7197278911564626,
-      "macro_f1": 0.7151439744045502,
       "log_loss": 6.4346213557641825,
-      "brier": 0.4657534246575342,
-      "recall": {
-        "cut": 0.7,
-        "hold": 0.8163265306122449,
-        "hike": 0.6428571428571429
-      },
-      "support": {
-        "cut": 10,
-        "hold": 49,
-        "hike": 14
-      },
-      "confusion_matrix": [
-        [
-          7,
-          3,
-          0
-        ],
-        [
-          3,
-          40,
-          6
-        ],
-        [
-          0,
-          5,
-          9
-        ]
-      ]
+      "brier": 0.4657534246575342
     }
   },
-  "vs_frequency": {
-    "mean_log_loss_improvement": 0.24626515936165527,
-    "interval_95": [
-      -0.021064438053512838,
-      0.5621923701025682
-    ],
-    "block_meetings": 4
-  },
-  "vs_transition": {
-    "mean_log_loss_improvement": 0.005647124818785083,
-    "interval_95": [
-      -0.12227543128463661,
-      0.14199762537504215
-    ],
-    "block_meetings": 4
-  },
-  "calibration": [
-    {
-      "class": "cut",
-      "bin": [
-        0,
-        0.3333333333333333
-      ],
-      "n": 68,
-      "mean_probability": 0.05550486679315888,
-      "observed_fraction": 0.08823529411764706
-    },
-    {
-      "class": "cut",
-      "bin": [
-        0.3333333333333333,
-        0.6666666666666666
-      ],
-      "n": 5,
-      "mean_probability": 0.413174197121819,
-      "observed_fraction": 0.8
-    },
-    {
-      "class": "hold",
-      "bin": [
-        0,
-        0.3333333333333333
-      ],
-      "n": 7,
-      "mean_probability": 0.05504776133936328,
-      "observed_fraction": 0.14285714285714285
-    },
-    {
-      "class": "hold",
-      "bin": [
-        0.3333333333333333,
-        0.6666666666666666
-      ],
-      "n": 13,
-      "mean_probability": 0.5335869234105236,
-      "observed_fraction": 0.6153846153846154
-    },
-    {
-      "class": "hold",
-      "bin": [
-        0.6666666666666666,
-        1
-      ],
-      "n": 53,
-      "mean_probability": 0.8697981753866653,
-      "observed_fraction": 0.7547169811320755
-    },
-    {
-      "class": "hike",
-      "bin": [
-        0,
-        0.3333333333333333
-      ],
-      "n": 60,
-      "mean_probability": 0.07142871656914701,
-      "observed_fraction": 0.11666666666666667
-    },
-    {
-      "class": "hike",
-      "bin": [
-        0.3333333333333333,
-        0.6666666666666666
-      ],
-      "n": 6,
-      "mean_probability": 0.48265779114280555,
-      "observed_fraction": 0.16666666666666666
-    },
-    {
-      "class": "hike",
-      "bin": [
-        0.6666666666666666,
-        1
-      ],
-      "n": 7,
-      "mean_probability": 0.9366943860349768,
-      "observed_fraction": 0.8571428571428571
-    }
-  ],
-  "market_comparison": "unavailable: no meeting-specific timestamped OIS data",
   "predictions": [
     {
       "meeting_date": "2017-09-06",

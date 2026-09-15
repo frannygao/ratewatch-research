@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 from dateutil.easter import easter
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
+from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import StandardScaler
 
@@ -153,12 +153,8 @@ def score(actual, probability):
     truth = np.eye(3)[encoded]
     return {'accuracy': float(accuracy_score(actual, predicted)),
             'balanced_accuracy': float(recalls[support > 0].mean()),
-            'macro_f1': float(f1_score(actual, predicted, labels=label_order, average='macro', zero_division=0)),
             'log_loss': float(-np.log(np.clip(probability[np.arange(len(actual)), encoded], 1e-12, 1)).mean()),
-            'brier': float(np.mean(np.sum((probability - truth)**2, axis=1))),
-            'recall': dict(zip(label_order, recalls.tolist())),
-            'support': dict(zip(label_order, support.tolist())),
-            'confusion_matrix': matrix.tolist()}
+            'brier': float(np.mean(np.sum((probability - truth)**2, axis=1)))}
 
 
 def evaluate_meetings(panel, meetings):
@@ -177,36 +173,11 @@ def evaluate_meetings(panel, meetings):
     return predictions
 
 
-def loss_interval(rows, baseline):
-    loss = lambda r, key: -np.log(max(r[key][label_order.index(r['actual'])], 1e-12))
-    improvement = np.array([loss(r, baseline) - loss(r, 'model') for r in rows])
-    rng = np.random.default_rng(42)
-    n = len(rows)
-    samples = []
-    for _ in range(2000):
-        starts = rng.integers(0, n, size=int(np.ceil(n / 4)))
-        index = np.concatenate([(s + np.arange(4)) % n for s in starts])[:n]
-        samples.append(improvement[index].mean())
-    return {'mean_log_loss_improvement': float(improvement.mean()),
-            'interval_95': np.quantile(samples, [0.025, 0.975]).tolist(), 'block_meetings': 4}
-
-
 def summarize(rows):
     names = ['model', 'frequency', 'transition', 'always_hold', 'persistence']
     metrics = {name: score([r['actual'] for r in rows], [r[name] for r in rows]) for name in names}
-    calibration = []
-    for label in label_order:
-        for low, high in [(0, 1/3), (1/3, 2/3), (2/3, 1.000001)]:
-            subset = [r for r in rows if low <= r['model'][label_order.index(label)] < high]
-            if subset:
-                calibration.append({'class': label, 'bin': [low, min(high, 1)], 'n': len(subset),
-                                    'mean_probability': float(np.mean([r['model'][label_order.index(label)] for r in subset])),
-                                    'observed_fraction': float(np.mean([r['actual'] == label for r in subset]))})
     return {'n': len(rows), 'start': rows[0]['meeting_date'], 'end': rows[-1]['meeting_date'],
-            'primary_metric': 'multiclass log loss', 'scores': metrics,
-            'vs_frequency': loss_interval(rows, 'frequency'), 'vs_transition': loss_interval(rows, 'transition'),
-            'calibration': calibration,
-            'market_comparison': 'unavailable: no meeting-specific timestamped OIS data'}
+            'scores': metrics}
 
 
 def evaluate(data):
@@ -259,22 +230,13 @@ def save_results(evaluation, forecast, prospective, folder=None):
               '| --- | ---: | ---: | ---: | ---: |']
     for name, values in evaluation['scores'].items():
         lines.append(f"| {name} | {values['accuracy']:.1%} | {values['balanced_accuracy']:.1%} | {values['log_loss']:.3f} | {values['brier']:.3f} |")
-    lines += ['', 'Deterministic baselines are chiefly accuracy comparisons. Lower log loss and Brier score are better.',
-              '', '## Interpretation', '']
-    if 'probabilities' in forecast:
-        winner = max(forecast['probabilities'], key=forecast['probabilities'].get)
-        lines += [f"The model assigns the highest probability to a {winner}. These estimates use six macro indicators; policy-context text does not affect them."]
-    lines += ['Historical results test whether the macro model adds value; they do not establish a forecasting advantage.',
-              '', '## Prospective record', '']
-    for stage, values in prospective.items():
-        lines += [f"{stage.capitalize()}: {values['issued']} issued, {values['scored']} scored."]
-    lines += ['', 'Only explicitly issued audit records count as prospective forecasts. Early and deadline forecasts are scored separately.',
-              '', '## Limitations', '',
-              '- Historical inputs use current numerical vintages and may contain revisions.',
-              '- Historical results are reconstructions. Same-day releases are excluded.',
-              '- Only scheduled decisions are targets; six features omit other policy drivers.',
-              '- No timestamped meeting-specific market benchmark is available.',
-              '- Local hashes detect edits but cannot prove issue time or prevent wholesale rewriting.',
-              f"- {len(evaluation['omitted'])} meetings lacked usable inputs; details are in evaluation.json."]
+    model_accuracy = evaluation['scores']['model']['accuracy']
+    baseline_accuracy = evaluation['scores']['persistence']['accuracy']
+    comparison = 'exceeded' if model_accuracy > baseline_accuracy else 'did not exceed'
+    lines += ['', f'Model accuracy {comparison} the repeat-previous-decision baseline on this sample.',
+              'Lower log loss and Brier score are better; deterministic baselines are mainly accuracy comparisons.', '',
+              'Historical values may be revised. Same-day releases are excluded. '
+              'Only scheduled decisions are tested, and six indicators omit other policy drivers.',
+              f"{len(evaluation['omitted'])} meetings lacked usable inputs."]
     (folder / 'report.md').write_text('\n'.join(lines) + '\n')
     return folder / 'report.md'
