@@ -6,7 +6,7 @@ from official CPI, unemployment and policy-rate data published before the decisi
 ## Next meeting
 
 **2026-10-28**, decided by 2026-10-27 16:00 Toronto.
-Forecast from data available at 2026-09-17 02:38 UTC.
+Forecast from data available at 2026-09-17 02:43 UTC.
 
 | Decision | Probability |
 | --- | ---: |
