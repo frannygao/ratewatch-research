@@ -1,5 +1,7 @@
+data/meetings/pages.json.gz
+data/meetings/release_pages.json.gz
 __pycache__/
 *.py[cod]
 .venv/
+venv/
 .DS_Store
-data/audit/.lock

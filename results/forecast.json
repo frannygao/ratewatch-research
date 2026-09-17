@@ -1,77 +1,69 @@
 {
   "meeting_date": "2026-10-28",
-  "information_cutoff": "2026-09-13T07:15:33.381966+00:00",
-  "deadline": "2026-10-27T16:00:00-04:00",
-  "class_order": [
-    "cut",
-    "hold",
-    "hike"
-  ],
+  "meeting_cutoff": "2026-10-27T16:00:00-04:00",
+  "information_cutoff": "2026-09-17T02:38:43.049312+00:00",
   "probabilities": {
-    "cut": 0.05726869548763865,
-    "hold": 0.8698288744696813,
-    "hike": 0.07290243004267993
+    "cut": 0.05163050940771022,
+    "hold": 0.8628530687261166,
+    "hike": 0.08551642186617332
   },
   "features": {
-    "inflation_gap": 1.0321406913280669,
-    "inflation_trend": 0.21696321274788932,
+    "inflation_gap": 1.033980582524265,
+    "inflation_trend": -0.19182586908863541,
     "unemployment_change": -0.1999999999999993,
     "unemployment_gap": -0.10555555555555518,
-    "real_rate": -0.7821406913280669,
+    "real_rate": -0.783980582524265,
     "policy_momentum": 0.0
   },
-  "audit": {
-    "cutoff": "2026-09-13T03:15:33.381966-04:00",
-    "policy_date": "2026-09-08",
+  "used": {
+    "cutoff": "2026-09-16T22:38:43.049312-04:00",
     "policy_rate": 2.25,
+    "policy_date": "2026-09-15",
     "cpi": {
       "series": "cpi",
-      "reference": "2026-07-01",
-      "published_date": "2026-08-17",
-      "available_after": "2026-08-18",
-      "precision": "day; usable next day",
-      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260817/dq260817a-eng.htm"
+      "reference": "2026-08-01",
+      "published": "2026-09-14",
+      "available_after": "2026-09-15",
+      "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260914/dq260914a-eng.htm"
     },
     "unemployment": {
       "series": "unemployment",
       "reference": "2026-08-01",
-      "published_date": "2026-09-04",
+      "published": "2026-09-04",
       "available_after": "2026-09-05",
-      "precision": "day; usable next day",
       "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260904/dq260904a-eng.htm"
-    },
-    "vintage": "current numerical vintage; historical values may be revised"
+    }
   },
   "baselines": {
-    "frequency": [
-      0.10743801652892562,
-      0.7603305785123967,
-      0.1322314049586777
-    ],
-    "transition": [
-      0.06451612903225806,
-      0.8602150537634409,
-      0.07526881720430108
-    ],
-    "always_hold": [
-      0,
-      1,
-      0
-    ],
-    "persistence": [
-      0,
-      1,
-      0
-    ]
+    "frequency": {
+      "cut": 0.1092436974789916,
+      "hold": 0.7563025210084033,
+      "hike": 0.13445378151260504
+    },
+    "transition": {
+      "cut": 0.06593406593406594,
+      "hold": 0.8571428571428571,
+      "hike": 0.07692307692307693
+    },
+    "always_hold": {
+      "cut": 0.0,
+      "hold": 1.0,
+      "hike": 0.0
+    },
+    "persistence": {
+      "cut": 0.0,
+      "hold": 1.0,
+      "hike": 0.0
+    }
   },
-  "training_meetings": 116,
-  "model_parameters": {
+  "trained_on": 116,
+  "parameters": {
     "classes": [
       "cut",
       "hike",
       "hold"
     ],
-    "coef": [
+    "coefficients": [
       [
         0.018633209657016685,
         0.23781469263890834,
@@ -97,12 +89,12 @@
         0.20487619986193428
       ]
     ],
-    "intercept": [
+    "intercepts": [
       -1.0356671310742729,
       -0.7748083077838648,
       1.8104754388581372
     ],
-    "mean": [
+    "feature_means": [
       0.2990671393332034,
       0.0005138493307906412,
       -0.029310344827586217,
@@ -110,7 +102,7 @@
       -0.646049897953893,
       0.010775862068965518
     ],
-    "scale": [
+    "feature_scales": [
       1.593636561961443,
       0.8207734715263768,
       1.0788737135981137,
@@ -118,6 +110,5 @@
       1.6596742190130191,
       0.34955674114430874
     ]
-  },
-  "status": "saved snapshot preview"
+  }
 }

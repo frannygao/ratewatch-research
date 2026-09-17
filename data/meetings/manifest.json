@@ -1,8 +1,7 @@
 {
-  "retrieved_at": "2026-09-13T07:15:38.105168+00:00",
+  "retrieved_at": "2026-09-17T02:02:02.278451+00:00",
   "release_calendar": "https://www150.statcan.gc.ca/dai-quo/ssi/homepage/schedule-previous_releases-eng.json",
-  "start_year": 2012,
-  "end_year": 2026,
-  "meeting_count": 120,
-  "release_count": 348
+  "first_year": 2012,
+  "meetings": 120,
+  "releases": 349
 }
